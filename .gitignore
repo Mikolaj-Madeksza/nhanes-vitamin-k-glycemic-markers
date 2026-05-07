@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# macOS
+.DS_Store
+
+# renv local package library
+renv/library/
+
+# raw NHANES data
+data_raw/*.xpt
+data_raw/*.sas7bdat
+
+# generated result files
+results/*.xlsx
