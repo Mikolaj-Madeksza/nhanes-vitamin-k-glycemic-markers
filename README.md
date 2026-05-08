@@ -24,12 +24,13 @@ Analyses included:
 
 ```text
 .
-├── nhanes_analysis.R        # Main analysis script
-├── README.md
-├── LICENSE
-├── renv.lock                # Reproducible package versions
 ├── .Rprofile
-├── vitK_nhanes.Rproj
+├── .gitignore
+├── LICENSE
+├── README.md
+├── renv.lock                # Reproducible package versions
+├── vitK_nhanes_analysis.R        # Main analysis script
+├── vitK_nhanes_analysis.Rproj
 │
 ├── renv/
 │   ├── activate.R
